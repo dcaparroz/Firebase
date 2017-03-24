@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "323061225863",
+    "firebase_url": "https://demobaas-d0332.firebaseio.com",
+    "project_id": "demobaas-d0332",
+    "storage_bucket": "demobaas-d0332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323061225863:android:bd41657d54a17c7f",
+        "android_client_info": {
+          "package_name": "com.firebase.davicap.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323061225863-ubt2cfpgn4d9067pa3m1bg5h6ive32k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBun1a_8J5rY-1KYu4SLTJ5yVB0GxxWad4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
